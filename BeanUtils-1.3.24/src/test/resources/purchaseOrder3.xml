@@ -1,0 +1,22 @@
+<purchaseOrder>
+    <customer>
+        <name>Gladys Kravitz</name>
+        <address>Anytown, PA</address>
+    </customer>
+    <lineItem>
+        <description>Burnham's Celestial Handbook, Vol 1</description>
+        <perUnitOunces>5</perUnitOunces>
+        <price>21.79</price>
+        <quantity>2</quantity>
+    </lineItem>
+    <lineItem>
+        <description>Burnham's Celestial Handbook, Vol 2</description>
+        <perUnitOunces>5</perUnitOunces>
+        <price>19.89</price>
+        <quantity>2</quantity>
+    </lineItem>
+    <shipper>
+        <name>ZipShip</name>
+        <perOunceRate>0.74</perOunceRate>
+    </shipper>
+</purchaseOrder>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contact> 
+	<name>
+		<firstName>&quot;Justin&quot;</firstName>
+		<lastName>Edelson</lastName>
+	</name>
+	<address>
+		<street>1515 Broadway</street>
+		<city>New York</city>
+		<state>NY</state>
+		<zip>10036</zip>
+	</address>
+	<email><![CDATA[abc@htomail.com]]></email>
+	<phones>5192349876</phones>
+	<phones>5199998889</phones>
+	<phones>5190123456</phones>
+	<friends>
+		<name>Kate</name>
+		<gender>female</gender>
+		<age>25</age>
+	</friends>
+	<friends>
+		<name>Steve</name>
+		<gender>male</gender>
+		<age>35</age>
+	</friends>
+	<yearsOfUnemployed>1997</yearsOfUnemployed>
+	<yearsOfUnemployed>1999</yearsOfUnemployed>
+	<yearsOfUnemployed>2003</yearsOfUnemployed>
+	<addressMap>
+        <String>work</String>
+        <Address>
+            <street>299 Wonderland Road</street>
+            <city>London</city>
+            <state>ON</state>
+            <zip>10059</zip>
+        </Address>
+    </addressMap>
+    <addressMap>
+        <String>home</String>
+        <Address>
+            <street>100 King Street</street>
+            <city>Waterloo</city>
+            <state>ON</state>
+            <zip>10036</zip>
+        </Address>
+    </addressMap>
+</contact>
